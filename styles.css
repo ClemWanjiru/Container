@@ -1,0 +1,39 @@
+body{
+    background-color: thistle;
+}
+#header{
+    background-color: white;
+    height: 50px;
+    width:100%;
+}
+.column{
+    float: left;
+    width: 20%;
+    font-size: larger;
+    padding: 1%;
+    text-align: center;
+}
+#container {
+    background-color: black;
+    width: 94%;
+    height: 500px;
+    padding: 3%;
+}
+#smaller_left{
+    background-color: cyan;
+    height: 480px;
+    width:24%;
+    float:left;
+}
+#smaller_right{
+    background-color: darkmagenta;
+    height: 480px;
+    width:70%;
+    float:right;
+}
+.footer {
+    height:100px;
+    width:100%;
+    background-color: burlywood;
+}
+
